@@ -37,4 +37,4 @@ The application consists of the following components:
 - `customer_banking.py`: The main script that interfaces with the user, prompts for account details, and displays the updated account information.
 
 ## References
-Based on menu.py starter file provided as part of OSU-VIRT-AI-PT-02-2024-U-LOLC-MTTH (OSU AI Bootcamp). Remaining code based on code examples provided as part of the course.
+Based on  starter files provided as part of OSU-VIRT-AI-PT-02-2024-U-LOLC-MTTH (OSU AI Bootcamp) for Challenge 3. Remaining code based on code examples provided as part of the course.
