@@ -1,7 +1,3 @@
-Here's a draft for your README.md file based on the provided code snippets and the functionality of your application:
-
----
-
 # Customer Banking System
 
 ## Overview
